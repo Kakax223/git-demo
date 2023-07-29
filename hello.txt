@@ -1,5 +1,6 @@
 hello world master-txt
-hello world 
+hello world hot-fix text
+>>>>>>> hot-fix
 hello world 
 hello world 
 hello world 
